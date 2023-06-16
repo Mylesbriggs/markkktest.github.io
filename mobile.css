@@ -1,4 +1,4 @@
-@media screen and (max-width:600px){
+@media screen and (max-width:800px){
 
 
 
@@ -9,6 +9,11 @@
 
  .company{
     display: none;
+ }
+ .formobilemenu{
+    margin-left: 60%;
+    font-size: 30px;
+    color: rgb(52, 52, 144);
  }
 .button1{
     display: none;
@@ -32,6 +37,12 @@
     margin-left: 20px;
     
 }
+.trading{
+    /* float: right; */
+      /* margin-right: 19%; */
+      margin-top: 5%;
+      margin-left: 20px;
+  }
 .button5{
     width: 90%;
 }
