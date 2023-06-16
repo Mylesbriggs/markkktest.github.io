@@ -389,8 +389,13 @@ body{
 }
 .coreheading{
     text-align: center;
-    color: rgb(137, 138, 138);
+    color: rgb(99, 100, 100);
     padding-top: 3%;
+}
+.coreheading2{
+    text-align: center;
+    color: rgb(137, 138, 138);
+    
 }
 
 
