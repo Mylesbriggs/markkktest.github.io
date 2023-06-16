@@ -1,0 +1,61 @@
+@media screen and (max-width:600px){
+
+
+
+
+
+
+
+
+ .company{
+    display: none;
+ }
+.button1{
+    display: none;
+}
+.button3{
+    width: 100%;
+    margin-left: 5px;
+    margin-top: 2%;
+}
+.input1{
+    width: 100%;
+    margin-left: 5px;
+
+}
+.trading{
+    background-color: snow;
+    width: 350px;
+    height: 350px;
+    border: solid 10px rgba(94, 103, 115, 0.411);
+    border-radius: 20px;
+    margin-left: 20px;
+    
+}
+.button5{
+    width: 90%;
+}
+.button6{
+    width: 90%;
+    margin-left: 20px;
+    
+}
+.forpc{
+    display: none;
+}
+.formobilep2{
+    text-align: center;
+}
+.formobilesecondp{
+    text-align: center;
+}
+.thirdp{
+    font-size: 25px;
+}
+
+
+
+
+
+
+}
